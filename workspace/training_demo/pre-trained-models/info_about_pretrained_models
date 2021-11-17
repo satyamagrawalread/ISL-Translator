@@ -1,0 +1,4 @@
+This model is downloaded from tensorflow model zoo.
+The model name is SSD ResNet50 V1 FPN 640x640 (RetinaNet50) 
+
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md -- Link for TF Model Zoo
